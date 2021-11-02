@@ -3,6 +3,8 @@ I chose Alan Turing as I recently visited Bletchley Park where I learnt about hi
 The work done by Turing and others at Bletchley Park is estimated to have saved up to two million lives and shortened the war by two years. 
 He was also influential in the early devlopment of the field of computer science, making him a fitting subject for my first project for the School of Code!
 
+<br />
+
 > **"The fact remains that everyone who taps at a keyboard, opening a 
 spreadsheet or a word-processing program, is working on an incarnation 
 of a Turing machine."**

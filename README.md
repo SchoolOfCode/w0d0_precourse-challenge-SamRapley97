@@ -3,6 +3,12 @@ I chose Alan Turing as I recently visited Bletchley Park where I learnt about hi
 The work done by Turing and others at Bletchley Park is estimated to have saved up to two million lives and shortened the war by two years. 
 He was also influential in the early devlopment of the field of computer science, making him a fitting subject for my first project for the School of Code!
 
+> "The fact remains that everyone who taps at a keyboard, opening a 
+spreadsheet or a word-processing program, is working on an incarnation 
+of a Turing machine."
+      
+> `r tufte::quote_footer('--- Time Magazine')`
+
 ## Reflections on making my tribute page
 - I really enjoyed the process of making the page and learning more about Alan Turing.
 - It's really cool when you've been struggling with a bit of code for ages and then suddenly it works.

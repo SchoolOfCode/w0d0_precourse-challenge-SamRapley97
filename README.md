@@ -1,4 +1,4 @@
-# Why I chose Alan Turing
+# Why I chose Alan Turing for my tribute page
 I chose Alan Turing as I recently visited Bletchley Park where I learnt about his work in breaking the Enigma Cipher during WW2. 
 The work done by Turing and others at Bletchley Park is estimated to have saved up to two million lives and shortened the war by two years. 
 He was also influential in the early devlopment of the field of computer science, making him a fitting subject for my first project for the School of Code!
